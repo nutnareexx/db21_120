@@ -28,7 +28,7 @@ else{
     [<a href=http://158.108.207.4/db21/db21_124/?controller=pages&action=home> Part 4 </a>]
     <br>
     <br>
-    [<a href=http://158.108.207.4/db21/db21_125/Myweb/?controller=home&action=home> Part 5 </a>]
+    [<a href=http://158.108.207.4/db21/db21_125/?controller=home&action=home> Part 5 </a>]
     <br>
     <br>
     [<a href=http://158.108.207.4/db21/db21_126/?controller=pages&action=home> Part 6 </a>]
